@@ -18,4 +18,6 @@ github_username:  hollosy
 google-analytics:
   id: ""
 
+include:
+  - _pages
 exclude: ['package.json', 'src' , 'node_modules']
