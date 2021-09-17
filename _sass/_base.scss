@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
-    margin: 0 1em;
+    margin: 0;
     padding: 0;
     font-size: 100%;
     line-height: 1.5;
@@ -13,6 +13,8 @@ article, aside, figcaption, figure, footer, header, nav, section {
 }
 h1, h2, h3, h4, stong {
     margin-top: 1em;
+    margin-right: 10%;
+    margin-left: 10%;
     padding-top: 1em;
     line-height: 1.25;
     color: #333;
@@ -35,7 +37,7 @@ ul, ol {
     padding-left: 40px;
 }
 p, figure {
-    margin: 1em 0;
+    margin: 1em 10%;
 }
 a img {
     border: none;
